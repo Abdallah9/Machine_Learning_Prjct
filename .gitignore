@@ -1,0 +1,6 @@
+*.mat
+*.log
+*.tmp
+.ipynb_checkpoints/
+.DS_Store
+
